@@ -1,1 +1,1 @@
-# Basic hangman game in c
+# Basic hangman game
